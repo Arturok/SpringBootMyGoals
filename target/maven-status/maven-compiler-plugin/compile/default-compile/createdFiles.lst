@@ -1,0 +1,10 @@
+com\arma\springbootMyGoalsarma\controller\CategoryController.class
+com\arma\springbootMyGoalsarma\repository\CategoryRepository.class
+com\arma\springbootMyGoalsarma\model\Category.class
+com\arma\springbootMyGoalsarma\SpringBootMyGoalsArmaApplication.class
+com\arma\springbootMyGoalsarma\exception\ErrorDetails.class
+com\arma\springbootMyGoalsarma\model\Goal.class
+com\arma\springbootMyGoalsarma\repository\GoalRepository.class
+com\arma\springbootMyGoalsarma\exception\GlobalExceptionHandler.class
+com\arma\springbootMyGoalsarma\exception\ResourceNotFoundException.class
+com\arma\springbootMyGoalsarma\controller\GoalController.class
